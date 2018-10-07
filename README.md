@@ -1,1 +1,1 @@
-# mestre-jedi-curso
+# Criando repositório no GIT - Formação JavaScript Mestre Jedi
